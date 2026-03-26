@@ -1,0 +1,1 @@
+# CNN-Lab-Untersuchung-von-Hyperparametern-bei-der-Erkennung-handgeschriebener-Ziffern
