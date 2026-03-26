@@ -61,4 +61,4 @@ Die Modelle werden anhand folgender Methoden bewertet:
 
 ---
 
-👉 [Projektbericht öffnen](./Dokumentation_CNN_Lab.pdf)
+👉 [Projektbericht öffnen, und dann auf "Download raw file"](./Dokumentation_CNN_Lab.pdf)
