@@ -60,3 +60,5 @@ Die Modelle werden anhand folgender Methoden bewertet:
 - scikit-learn
 
 ---
+
+👉 [Projektbericht öffnen](./Dokumentation_CNN_Lab.pdf)
